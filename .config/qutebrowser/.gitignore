@@ -1,0 +1,5 @@
+quickmarks
+bookmarks/
+bookmarks/*
+__pycache__/
+__pycache__/*
