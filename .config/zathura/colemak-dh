@@ -1,0 +1,17 @@
+map m feedkeys <Left>
+map n feedkeys <Down>
+map e feedkeys <Up>
+map i feedkeys <Right>
+
+map <S-j> feedkeys N
+map <S-k> feedkeys E
+map [normal] N feedkeys <PageDown>
+map [normal] E feedkeys <PageUp>
+map [normal] <C-n> feedkeys <PageDown> # shift mappings are broken for whatever reason so i decided to switch to control (im using an hhkb)
+map [normal] <C-e> feedkeys <PageUp>
+
+map h feedkeys m
+map j feedkeys n
+map k feedkeys e
+map l feedkeys i
+

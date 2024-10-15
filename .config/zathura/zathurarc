@@ -1,0 +1,9 @@
+set recolor
+set selection-clipboard clipboard
+
+include mountain
+include colemak-dh
+
+set font "Inconsolata Nerd Font 12"
+map - zoom out
+map = zoom in
